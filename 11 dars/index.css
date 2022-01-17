@@ -1,0 +1,43 @@
+body
+{
+    background: rgb(94, 110, 204);
+}
+.card
+{
+    background: #F2F7FA;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-right: 550px;
+    text-align: center;
+    margin-left: 550px;
+    border-style: solid;
+    border-color: #F2F7FA;
+    border-radius: 10px;
+    font-size: 35px;
+    font-family: Verdana,sans-serif;
+    box-shadow: 7px 7px 7px 7px rgba(7, 10, 8, 0.62);
+
+}
+.card2
+{
+    border: 1px solid rgba(0, 0, 0, 0.59);
+    border-radius: 10px;
+    font-weight: initial;
+    color: rgba(17, 17, 17, 0.27);
+    font-size: 20px;
+    margin-right: 35px;
+    margin-left: 35px;
+    padding-top: 10px;
+    text-align: -moz-center;
+
+}
+.card3
+{
+    border: 1px solid rgb(94, 110, 204);
+    background: rgb(94, 110, 204);
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 28px;
+    color: #F2F7FA;
+}

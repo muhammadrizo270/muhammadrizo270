@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: #f9f9f9;
+    display: grid;
+    place-items: center;
+}
+
+.card {
+    padding: 1rem;
+    border-radius: .5rem;
+    background: #fff;
+    box-shadow: 0 10px 40px 0 rgba(0, 0, 0, .25);
+}
+
+.input {
+    border: 1px solid #a4a4a4;
+    padding: .75rem;
+    width: 100%;
+    border-radius: .5rem;
+    margin-bottom: 1rem;
+}

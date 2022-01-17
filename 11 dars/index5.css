@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, sans-serif;
+    background-color: rgba(255, 255, 255, 0.53);
+    text-align: center;
+}
+div{
+    border-style: solid;
+    margin: 5px auto;
+    width: 65%;
+    background-color: aliceblue;
+    margin: 0 auto;
+    border-radius: 9px;
+}
+button{
+    background-color: blue;
+}
+.qa1{
+    background-color: rgba(255, 156, 123, 0.78);
+}
+.qa2{
+    background-color: rgba(238, 242, 243, 0.59);
+}
+.qa3{
+    background-color: rgba(11, 132, 162, 0.59);
+}

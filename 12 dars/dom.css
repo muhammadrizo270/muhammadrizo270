@@ -1,0 +1,54 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, sans-serif;
+}
+
+body {
+    background-color: #ee6666;
+}
+
+.header {
+    color: rgba(255, 255, 255, 0.89);
+    font-family: sans-serif;
+    text-align: center;
+    margin: 30px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    margin: 5px;
+    border-radius: 5px;
+
+         }
+
+.icons {
+    margin-top: 60px;
+    align-content: center;
+    align-items: center;
+    margin-left: 45em;
+    color: #d4d4d4;
+
+
+
+}
+
+i {
+    background-color: rgba(255, 255, 255, 0.68);
+    color: white;
+    font-size: 2em;
+    padding: 1.5rem;
+    border-radius: 14px;
+    transition: all .7s;
+    position: relative;cursor: pointer;
+}
+
+i:hover {
+    background-color: rgb(224, 18, 18);
+    content: initial;
+    font-family: Verdana, sans-serif;
+}

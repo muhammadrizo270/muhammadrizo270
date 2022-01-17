@@ -1,0 +1,45 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    display: flex;
+    align-items: center;
+    margin-left: 1000px;
+
+}
+p{
+    margin: 10px ;
+    margin-right: 32px;
+    font-family: "Noto Sans Adlam",sans-serif;
+    color: #f6fbf2;
+    text-decoration: #f6fbf2;
+}
+.container
+{
+    display: flex;
+    background-color: #212121;
+}
+h1
+{
+    font-family: Verdana, sans-serif;
+    color: #f6fbf2;
+    margin: 10px;
+}
+a
+    a::selection
+{
+    background-color: #f6fbf2;
+    color: #212121;
+}
+a
+{
+    text-decoration: #f6fbf2;
+    color: #f6fbf2;
+    font-family: "Academy Engraved LET",sans-serif;
+}
+ul li{
+    display:inline-block;
+}

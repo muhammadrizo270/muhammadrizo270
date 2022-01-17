@@ -1,0 +1,37 @@
+body{
+    background: #E3DED2;
+}
+h1
+{
+    text-align: center;
+    color: #111111;
+}
+.border
+{
+    border-style:solid;
+    padding: 3px;
+    margin-top:  10px;
+    color: #111111;
+    border-radius: 10px;
+    background: #71716F;
+
+}
+.border2 {
+    border-style: solid;
+    padding: 3px;
+    margin-top:  10px;
+    color: #111111;
+    background: #71716F;
+    border-radius: 10px;
+}
+.border3
+{
+    border-style:solid;
+    border-width: 2px;
+    padding: 3px;
+    margin-top:  10px;
+    color: #111111;
+    background: #71716F;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,63 @@
+iphonest
+{
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background: #111111;
+    color: #f6fbf2;
+    padding: 18px;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+img
+{
+    width: 650px;
+    margin-top: 50px;
+    border-left: #111111;
+    display: inline-block;
+}
+.border
+{
+    border-style: solid;
+    padding: 3px;
+    color: #212121;
+    background: rgba(255, 255, 255, 0.89);
+    border-color: rgba(9, 14, 11, 0.66);
+    font-family: Verdana, sans-serif;
+    width: 900px;
+    display: inline-block;
+    border-right: #111111;
+    border-bottom: #111111;
+    border-top: #111111;
+    margin-bottom: -380px;
+    font-size: 19px;
+    margin-left: 10px;
+    margin-right: 100px;
+    padding: 50px;
+    margin-top: 20px;
+}
+.sozkuu
+{
+    font-size: 35px;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: -10px;
+}
+.border1
+{
+    margin-top: -55px;
+    margin-bottom: 10px;
+    margin-right: 100000px;
+}
+a {
+    padding: 4px 8px;
+    background: rgb(44, 70, 241);
+    color: rgba(255, 255, 255, 0.89);
+    border: none;
+    border-radius:9px;
+    font-family: Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}

@@ -1,0 +1,11 @@
+div
+{
+    width: 300px;
+    display: inline-block;
+}
+p
+{
+    background: #71716F;
+    padding: 16px;
+    border-radius: 7px;
+}
