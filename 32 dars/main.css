@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: Verdana,Tahoma,sans-serif;
+}
+body{
+    background-color: #923fc9;
+}
+h1{
+    color: white;
+    text-align: center;
+    height: 4rem;
+    line-height: 4rem;
+    webkit-box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+}
+.container{
+    height: calc(100vh - 4rem);
+    display: grid;
+    place-items: center;
+    webkit-box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+}
+
+.card {
+    background-color: white;
+    padding: 1rem;
+    width: 15rem;
+    max-width: 30rem;
+    min-width: 20rem;
+    webkit-box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    border-radius: 2rem;
+    font-weight: 500;
+}
+.list .item{
+    font-weight: 500;
+    background-color: #c3c3c3;
+    border-radius: 2rem;
+    padding: .75rem 1rem;
+    margin-bottom: .25rem;
+    webkit-box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: -1px 0px 19px 0px rgba(34, 60, 80, 0.2);
+}
+input, button
+{
+    padding: .75rem 1rem;
+    border-radius: .25rem;
+}
+input
+{
+    border: 1px solid #c3c3c3;
+}
+button
+{
+    background: #923fc9;
+    color: #fffde9;
+}
